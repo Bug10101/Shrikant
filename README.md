@@ -1,4 +1,7 @@
 # Web Applcation Penetration Tester
+
+#### Techinacl Skill: VAPT
+
 ### SUMMERY
 - Conducted numerous black box/Grey Box/White Box penetration testing on the web applications belonging to critical 
   Institutions. 
@@ -9,8 +12,8 @@
   Non-technical individuals at any level. 
 
 ### Education
-- 2020 Diploma in Chemical Engineering | Satara Polytechnic Satara SATARA 
-- 2015 SSC                             | NEW ENGLISH SCHOOL AND JUNIOR COLLEGE KHERDI SATI CHINCHAGHARI– Chiplun 
+- 2020., Diploma in Chemical Engineering | Satara Polytechnic Satara SATARA 
+- 2015., SSC                             | NEW English School And Junior College Kherdi Sati Chichghari Chiplun 
 
 
 ### Work Experience
@@ -19,9 +22,7 @@
 - Network Penetration Testing 
 - Vulnerability Assessment 
 - Security Incidents Investigation 
-- Operating Systems: Kali Linux, Windows 
-- CTF Creator 
-- Tools: BurpSuite, Metasploit, Acunetix, Nessus, OWASP Zap, Nmap SEIM Solution: NetEnrich+ Chronicle, Splunk, 
+- Tools: BurpSuite, Metasploit, Acunetix, Nessus, OWASP Zap, Nmap SEIM Solution: NetEnrich+ Chronicle, Splunk 
 
 ### ACTIVITIES 
   - Penetration Testing 
