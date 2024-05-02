@@ -13,7 +13,7 @@
 
 ### Education
 - Diploma in Chemical Engineering | Satara Polytechnic Satara SATARA (_2020_)
-- SSC                             | NEW English School And Junior College Kherdi Sati Chichghari Chiplun (_May 2015_)
+- SSC                              | NEW English School And Junior College Kherdi Sati Chichghari Chiplun (_May 2015_)
 
 
 ### Work Experience
@@ -22,7 +22,8 @@
 - Network Penetration Testing 
 - Vulnerability Assessment 
 - Security Incidents Investigation 
-- Tools: BurpSuite, Metasploit, Acunetix, Nessus, OWASP Zap, Nmap SEIM Solution: NetEnrich+ Chronicle, Splunk 
+- Tools: BurpSuite, Metasploit, Acunetix, Nessus, OWASP Zap, Nmap
+- SEIM Solution: NetEnrich+ Chronicle, Splunk 
 
 ### ACTIVITIES 
   - Penetration Testing 
