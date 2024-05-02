@@ -12,12 +12,12 @@
   Non-technical individuals at any level. 
 
 ### Education
-- 2020., Diploma in Chemical Engineering | Satara Polytechnic Satara SATARA 
-- 2015., SSC                             | NEW English School And Junior College Kherdi Sati Chichghari Chiplun 
+- ., Diploma in Chemical Engineering | Satara Polytechnic Satara SATARA (_2020_)
+- ., SSC                             | NEW English School And Junior College Kherdi Sati Chichghari Chiplun (_May 2015_)
 
 
 ### Work Experience
-**01/06/2022 to Current Cyber Security Analyst SysTools Software Pvt. Ltd. - Pune**
+**01/06/2022 to Current - Cyber Security Analyst at SysTools Software Pvt. Ltd. - Pune**
 - Web Application Penetration Testing 
 - Network Penetration Testing 
 - Vulnerability Assessment 
