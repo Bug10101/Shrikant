@@ -27,16 +27,16 @@ SysTools Software Pvt. Ltd. - Pune
       SEIM Solution: NetEnrich+ Chronicle, Splunk, 
 
 ### ACTIVITIES 
-      Penetration Testing 
-      On-Boarding and Ingestion 
-      Investigation
-      Log analysis 
-      Dark Web Search 
-      Threat Hunting
+  Penetration Testing 
+  On-Boarding and Ingestion 
+  Investigation
+  Log analysis 
+  Dark Web Search 
+  Threat Hunting
 
 ### CERTIFICATION
-      Pristine InfoSolutions Pvt. Ltd- CERTIFIED INFORMATION SECURITY AND ETHICAL HACKING (CISEH) 
-      Pristine InfoSolutions Pvt. Ltd- CERTIFIED PENETRATION TESTING EXPERT (CPTE) 
-      TCM Security- Practical Malware Analysis and Triage 
-      Ec-Council- Computer Hacking Forensic Investigator (CHFI)
+  Pristine InfoSolutions Pvt. Ltd- CERTIFIED INFORMATION SECURITY AND ETHICAL HACKING (CISEH) 
+  Pristine InfoSolutions Pvt. Ltd- CERTIFIED PENETRATION TESTING EXPERT (CPTE) 
+  TCM Security- Practical Malware Analysis and Triage 
+  Ec-Council- Computer Hacking Forensic Investigator (CHFI)
 
