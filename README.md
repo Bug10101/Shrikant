@@ -15,7 +15,7 @@
 
 
 ### Work Experience
-**01/06/2022 to Current Cyber Security Analyst SysTools Software Pvt. Ltd. - Pune* 
+**01/06/2022 to Current Cyber Security Analyst SysTools Software Pvt. Ltd. - Pune**
       - Web Application Penetration Testing 
       - Network Penetration Testing 
       - Vulnerability Assessment 
