@@ -12,8 +12,8 @@
   Non-technical individuals at any level. 
 
 ### Education
-- ., Diploma in Chemical Engineering | Satara Polytechnic Satara SATARA (_2020_)
-- ., SSC                             | NEW English School And Junior College Kherdi Sati Chichghari Chiplun (_May 2015_)
+- Diploma in Chemical Engineering | Satara Polytechnic Satara SATARA (_2020_)
+- SSC                             | NEW English School And Junior College Kherdi Sati Chichghari Chiplun (_May 2015_)
 
 
 ### Work Experience
