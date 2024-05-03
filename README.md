@@ -1,6 +1,6 @@
 # Web Applcation Penetration Tester
 
-#### Techinacl Skill: VAPT
+#### Techinacl Skill: VAPT, SOC
 
 ### SUMMERY
 - Conducted numerous black box/Grey Box/White Box penetration testing on the web applications belonging to critical 
@@ -13,7 +13,7 @@
 
 ### Education
 - Diploma in Chemical Engineering         | Satara Polytechnic Satara SATARA (_2020_)
-- SSC                                     | NEW English School And Junior College Kherdi Sati Chichghari Chiplun (_May 2015_)
+- SSC                                     || NEW English School And Junior College Kherdi Sati Chichghari Chiplun (_May 2015_)
 
 
 ### Work Experience
@@ -35,12 +35,11 @@ Received commendation from clients for delivering thorough and actionable penetr
 My dedication to continuous learning and staying updated on emerging security threats allows me to provide effective and reliable security solutions to safeguard clients' digital assets against evolving cyber threats.
 
 ### ACTIVITIES 
-  - Penetration Testing 
-  - On-Boarding and Ingestion 
-  - Investigation
-  - Log analysis 
-  - Dark Web Search 
-  - Threat Hunting
+- Conduct penetration tests on systems and applications, provide reports.
+- Collaborate with clients for scoping, gather relevant information.
+- SOC on boarding and data ingestion.
+- Analyze logs, monitor dark web, and proactively hunt threats.
+- Manage VAPT projects, oversee team, ensure quality and timely delivery.
 
 ### CERTIFICATION
   - Pristine InfoSolutions Pvt. Ltd- CERTIFIED INFORMATION SECURITY AND ETHICAL HACKING (CISEH) 
