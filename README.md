@@ -20,12 +20,19 @@
 **01/06/2022 to Current - Cyber Security Analyst at SysTools Software Pvt. Ltd. - Pune**
 - As a web application penetration tester, I specialize in assessing the security of web applications through comprehensive testing methodologies. My role involves conducting black, 
   grey, and white box testing to identify vulnerabilities and security weaknesses, ensuring the integrity and resilience of clients' digital assets.
-  Key Responsibilities:
+- Key Responsibilities:
   - Penetration Testing: Conduct thorough assessments of web applications using various testing techniques, including manual and automated approaches.
   - Testing Standards: Implement industry-standard testing frameworks such as OWASP Top 10, NIST, and other relevant methodologies to ensure comprehensive coverage of potential 
     vulnerabilities.
   - Risk Assessment: Evaluate identified vulnerabilities to determine their severity and potential impact on the security posture of web applications.
-  - Reporting: Prepare detailed reports outlining findings, including vulnerabilities discovered, their risk levels, and recommendations for remediation. 
+  - Reporting: Prepare detailed reports outlining findings, including vulnerabilities discovered, their risk levels, and recommendations for remediation.
+
+### Achievements:
+
+- Successfully conducted penetration tests on [number] web applications, identifying and mitigating critical security risks.
+Developed customized testing methodologies tailored to the unique requirements of clients, resulting in improved detection of vulnerabilities and enhanced security posture.
+Received commendation from clients for delivering thorough and actionable penetration testing reports, facilitating informed decision-making and risk mitigation efforts.
+My dedication to continuous learning and staying updated on emerging security threats allows me to provide effective and reliable security solutions to safeguard clients' digital assets against evolving cyber threats.
 
 ### ACTIVITIES 
   - Penetration Testing 
