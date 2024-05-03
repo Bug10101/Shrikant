@@ -28,8 +28,7 @@ Developed customized testing methodologies tailored to the unique requirements o
 Received commendation from clients for delivering thorough and actionable penetration testing reports, facilitating informed decision-making and risk mitigation efforts.
 My dedication to continuous learning and staying updated on emerging security threats allows me to provide effective and reliable security solutions to safeguard clients' digital assets against evolving cyber threats.
 
-- Hall Of Fame:
-  - https://github.com/Bug10101/Shrikant/blob/master/Achive.png
+- Hall Of Fame:https://github.com/Bug10101/Shrikant/blob/master/Achive.png
 
 ### ACTIVITIES 
 - Conduct penetration tests on systems and applications, provide reports.
