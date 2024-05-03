@@ -12,18 +12,20 @@
   Non-technical individuals at any level. 
 
 ### Education
-- Diploma in Chemical Engineering | Satara Polytechnic Satara SATARA (_2020_)
-- SSC                              | NEW English School And Junior College Kherdi Sati Chichghari Chiplun (_May 2015_)
+- Diploma in Chemical Engineering         | Satara Polytechnic Satara SATARA (_2020_)
+- SSC                                     | NEW English School And Junior College Kherdi Sati Chichghari Chiplun (_May 2015_)
 
 
 ### Work Experience
 **01/06/2022 to Current - Cyber Security Analyst at SysTools Software Pvt. Ltd. - Pune**
-- Web Application Penetration Testing 
-- Network Penetration Testing 
-- Vulnerability Assessment 
-- Security Incidents Investigation 
-- Tools: BurpSuite, Metasploit, Acunetix, Nessus, OWASP Zap, Nmap
-- SEIM Solution: NetEnrich+ Chronicle, Splunk 
+- As a web application penetration tester, I specialize in assessing the security of web applications through comprehensive testing methodologies. My role involves conducting black, 
+  grey, and white box testing to identify vulnerabilities and security weaknesses, ensuring the integrity and resilience of clients' digital assets.
+  Key Responsibilities:
+  - Penetration Testing: Conduct thorough assessments of web applications using various testing techniques, including manual and automated approaches.
+  - Testing Standards: Implement industry-standard testing frameworks such as OWASP Top 10, NIST, and other relevant methodologies to ensure comprehensive coverage of potential 
+    vulnerabilities.
+  - Risk Assessment: Evaluate identified vulnerabilities to determine their severity and potential impact on the security posture of web applications.
+  - Reporting: Prepare detailed reports outlining findings, including vulnerabilities discovered, their risk levels, and recommendations for remediation. 
 
 ### ACTIVITIES 
   - Penetration Testing 
