@@ -3,7 +3,7 @@
 #### Techinacl Skill: VAPT, SOC
 
 ### SUMMERY
-- With a focus on web application security, I've led numerous black box, grey box, and white box penetration tests for critical institutions, conducting both internal and external assessments. Additionally, I excel in vulnerability assessments, categorizing issues by risk level. Beyond technical proficiency, my strong communication skills allow me to effectively convey complex concepts to non-technical stakeholders at all levels. 
+With a focus on web application security, I've led numerous black box, grey box, and white box penetration tests for critical institutions, conducting both internal and external assessments. Additionally, I excel in vulnerability assessments, categorizing issues by risk level. Beyond technical proficiency, my strong communication skills allow me to effectively convey complex concepts to non-technical stakeholders at all levels. 
 
 ### Education
 - Diploma in Chemical Engineering         | Satara Polytechnic Satara SATARA (_2020_)
@@ -23,7 +23,7 @@
 
 ### Achievements:
 
-- Successfully conducted penetration tests on [number] web applications, identifying and mitigating critical security risks.
+- Successfully conducted penetration tests on web applications, identifying and mitigating critical security risks.
 Developed customized testing methodologies tailored to the unique requirements of clients, resulting in improved detection of vulnerabilities and enhanced security posture.
 Received commendation from clients for delivering thorough and actionable penetration testing reports, facilitating informed decision-making and risk mitigation efforts.
 My dedication to continuous learning and staying updated on emerging security threats allows me to provide effective and reliable security solutions to safeguard clients' digital assets against evolving cyber threats.
