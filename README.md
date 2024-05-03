@@ -51,6 +51,10 @@ My dedication to continuous learning and staying updated on emerging security th
 
 ### Providing Following Services
   - Vulnerability Assessment & Penetration Testing [(VAPT)](https://github.com/Pentester-Shrikant/Services/blob/master/README.md)
+  - Timeline: 5 Days for 1 web application
+      - 4 Days for Pentesting
+      - 1 Day for report writing
+  - Pricing:
 
 ### Contact Details:
   - Email | shinde.shrikant1604@gmail.com
