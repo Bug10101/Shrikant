@@ -55,6 +55,8 @@ My dedication to continuous learning and staying updated on emerging security th
       - 4 Days for Pentesting
       - 1 Day for report writing
   - Pricing:
+  - Find the below link
+    - [Email the details to get the pricing](https://github.com/Pentester-Shrikant/Services/raw/master/Web%20App%20Information%20Gathering%20Sheet.xlsx) 
 
 ### Contact Details:
   - Email | shinde.shrikant1604@gmail.com
