@@ -29,9 +29,9 @@ Received commendation from clients for delivering thorough and actionable penetr
 My dedication to continuous learning and staying updated on emerging security threats allows me to provide effective and reliable security solutions to safeguard clients' digital assets against evolving cyber threats.
 
 ### Hall Of Fame:
-[Github Pages] (https://github.com/Bug10101/Shrikant/blob/master/My_first_Hall_of_Fame.pdf)
-[Github Pages] (https://github.com/Bug10101/Shrikant/blob/master/Achive.png)
-[Github Pages] (https://github.com/Bug10101/Shrikant/blob/master/Customer_response.jpg)
+- [First Achivement](https://github.com/Bug10101/Shrikant/blob/master/My_first_Hall_of_Fame.pdf)
+- [Customer Response](https://github.com/Bug10101/Shrikant/blob/master/Achive.png)
+- [Customer Response](https://github.com/Bug10101/Shrikant/blob/master/Customer_response.jpg)
 
 ### Sample Report:
 https://github.com/Bug10101/Shrikant/blob/master/(Sample_report).pdf
