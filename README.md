@@ -6,8 +6,8 @@
 With a focus on web application security, I've led numerous black box, grey box, and white box penetration tests for critical institutions, conducting both internal and external assessments. Additionally, I excel in vulnerability assessments, categorizing issues by risk level. Beyond technical proficiency, my strong communication skills allow me to effectively convey complex concepts to non-technical stakeholders at all levels. 
 
 ### Education
-- Diploma in Chemical Engineering         | Satara Polytechnic Satara SATARA (_2020_)
-- SSC  | NEW English School And Junior College Kherdi Sati Chichghari Chiplun (_May 2015_)
+- Diploma in Chemical Engineering       | Satara Polytechnic Satara SATARA (_2020_)
+- SSC                                     | NEW English School And Junior College Kherdi Sati Chichghari Chiplun (_May 2015_)
 
 
 ### Work Experience
