@@ -34,7 +34,7 @@ My dedication to continuous learning and staying updated on emerging security th
 - [Customer Response](https://github.com/Bug10101/Shrikant/blob/master/Customer_response.jpg)
 
 ### Sample Report:
-https://github.com/Bug10101/Shrikant/blob/master/(Sample_report).pdf
+- [Sample Report](https://github.com/Bug10101/Shrikant/blob/master/(Sample_report).pdf)
 
 ### ACTIVITIES 
 - Conduct penetration tests on systems and applications, provide reports.
