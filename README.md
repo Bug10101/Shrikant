@@ -29,10 +29,11 @@ Received commendation from clients for delivering thorough and actionable penetr
 My dedication to continuous learning and staying updated on emerging security threats allows me to provide effective and reliable security solutions to safeguard clients' digital assets against evolving cyber threats.
 
 ### Hall Of Fame:
+https://github.com/Bug10101/Shrikant/blob/master/My_first_Hall_of_Fame.pdf
 https://github.com/Bug10101/Shrikant/blob/master/Achive.png
 
 ### Sample Report:
-
+https://github.com/Bug10101/Shrikant/blob/master/(Sample_report).pdf
 
 ### ACTIVITIES 
 - Conduct penetration tests on systems and applications, provide reports.
