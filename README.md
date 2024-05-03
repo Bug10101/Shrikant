@@ -7,7 +7,7 @@ With a focus on web application security, I've led numerous black box, grey box,
 
 ### Education
 - Diploma in Chemical Engineering                                               | Satara Polytechnic Satara SATARA (_2020_)
-- SSC                                   ||||||||| NEW English School And Junior College Kherdi Sati Chichghari Chiplun (_May 2015_)
+- SSC                                   ||||||| NEW English School And Junior College Kherdi Sati Chichghari Chiplun (_May 2015_)
 
 
 ### Work Experience
