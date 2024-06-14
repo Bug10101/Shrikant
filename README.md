@@ -2,7 +2,7 @@
 
 #### Techinacl Skill: VAPT, SOC
 
-### SUMMERY
+### SUMMARY
 With a focus on web application security, I've led numerous black box, grey box, and white box penetration tests for critical institutions, conducting both internal and external assessments. Additionally, I excel in vulnerability assessments, categorizing issues by risk level. Beyond technical proficiency, my strong communication skills allow me to effectively convey complex concepts to non-technical stakeholders at all levels. 
 
 ### Education
